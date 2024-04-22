@@ -1,0 +1,13 @@
+streamlit
+pandas
+matplotlib.pyplot
+sklearn.compose
+sklearn.preprocessing 
+sklearn.pipeline
+sklearn.ensemble 
+sklearn.svm 
+sklearn.tree 
+sklearn.model_selection 
+sklearn.metrics 
+sklearn.metrics 
+PIL 
