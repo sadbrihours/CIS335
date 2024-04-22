@@ -9,5 +9,4 @@ sklearn.svm
 sklearn.tree 
 sklearn.model_selection 
 sklearn.metrics 
-sklearn.metrics 
 PIL 
