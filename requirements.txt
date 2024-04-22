@@ -9,4 +9,4 @@ svm
 tree 
 model_selection 
 metrics 
-PIL 
+Pillow 
